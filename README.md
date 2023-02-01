@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @qqinosm
-- 👀 I’m interested in data science and data analysis
-- 🌱 I’m currently learning data analysis
+- 👋 Hi, I’m Ícaro
+- 👀 I’m interested in web develoment, with more curiosity in back-end 
+- 🌱 I’m currently learning HTML, CSS, Javascript and Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
